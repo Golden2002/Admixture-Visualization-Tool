@@ -79,6 +79,7 @@ c("#A6CEE3", "#1F78B4", "#B2DF8A", "#33A02C", "#FB9A99", "#E31A1C", "#FDBF6F")
 
 ---
 
+
 # Detailed Methods
 ———— Multi-K ADMIXTURE Plotter
 
